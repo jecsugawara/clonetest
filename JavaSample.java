@@ -1,0 +1,3 @@
+class JavaSample {
+  int id;
+}
